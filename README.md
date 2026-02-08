@@ -12,7 +12,7 @@ A comprehensive telemetry display widget designed specifically for the Rotorflig
 
 ## Overview
 
-This Lua script provides real-time telemetry monitoring for your Rotorflight , displaying critical flight parameters in an easy-to-read format optimized for the TX15's screen. Simply copy to your SD card and activate in App Mode.
+This Lua script provides real-time telemetry monitoring for your Rotorflight , displaying critical flight parameters in an easy-to-read format optimized for the TX16 MK3 screen. Simply copy to your SD card and activate in App Mode.
 
 ## Features
 
