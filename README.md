@@ -38,3 +38,10 @@ This Lua script provides real-time telemetry monitoring for your Rotorflight , d
    
 </table>
  
+
+<div align="left">
+  <a href="https://youtu.be/BFNSgTWkT-o">
+    <img src="image/video.png" alt="DBK Series RadioMaster TX16MK3 Remote Controller Telemetry Return Interface Sharing" width="600"/>
+  </a>
+</div>
+ 
