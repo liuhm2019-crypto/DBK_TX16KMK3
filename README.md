@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="image/mk3.png" alt="Rotorflight  Logo" width="420"/>
+  <img src="Image/mk3.png" alt="Rotorflight  Logo" width="420"/>
 </div>
 
 # Rotorflight  Telemetry Widget for RadioMaster TX16 MK3
